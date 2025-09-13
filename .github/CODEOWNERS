@@ -1,0 +1,3 @@
+# Code owners for specific files/directories
+*.js @DevOps-Challenge-Org/Developers @DevOps-Challenge-Org/DevOps
+/infrastructure/ @DevOps-Challenge-Org/DevOps @DevOps-Challenge-Org/QA
